@@ -1,0 +1,16 @@
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\bin\Debug\net5.0\lesson1project.exe
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\bin\Debug\net5.0\lesson1project.deps.json
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\bin\Debug\net5.0\lesson1project.runtimeconfig.json
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\bin\Debug\net5.0\lesson1project.runtimeconfig.dev.json
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\bin\Debug\net5.0\lesson1project.dll
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\bin\Debug\net5.0\ref\lesson1project.dll
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\bin\Debug\net5.0\lesson1project.pdb
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\obj\Debug\net5.0\lesson1project.csproj.AssemblyReference.cache
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\obj\Debug\net5.0\lesson1project.GeneratedMSBuildEditorConfig.editorconfig
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\obj\Debug\net5.0\lesson1project.AssemblyInfoInputs.cache
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\obj\Debug\net5.0\lesson1project.AssemblyInfo.cs
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\obj\Debug\net5.0\lesson1project.csproj.CoreCompileInputs.cache
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\obj\Debug\net5.0\lesson1project.dll
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\obj\Debug\net5.0\ref\lesson1project.dll
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\obj\Debug\net5.0\lesson1project.pdb
+C:\macibas\csharp_macibas\lesson1\lesson11\lesson1project\lesson1project\obj\Debug\net5.0\lesson1project.genruntimeconfig.cache
