@@ -7,3 +7,6 @@
 * īsas kodolīgas izmaiņas
 * kas precīzi izmaninīts redzēs iekšā
 * viens teikums - ne vairāk
+
+## izmaiņas no visual studio
+* jauns ieraksts
